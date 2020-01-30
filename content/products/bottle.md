@@ -3,10 +3,10 @@ template: product
 date: 2019-12-31T00:00:00.000Z
 title: Glass Etched Bottle
 price: $10.00 CAD
-featuredImage: 'https://ucarecdn.com/5efb9ac6-be97-4ce9-9d42-4b1f6b031307/'
+featuredImage: 'https://ucarecdn.com/0a33512d-76cb-4a98-9ae7-290c644bcf06/'
 galleryImages:
-  - galleryImage: 'https://ucarecdn.com/5efb9ac6-be97-4ce9-9d42-4b1f6b031307/'
-  - galleryImage: 'https://ucarecdn.com/4d4de521-71a5-412d-9911-b38c82891e7e/'
+  - galleryImage: 'https://ucarecdn.com/f454626c-d0a7-415b-8f9d-8ff0ecf8f9b5/'
+  - galleryImage: 'https://ucarecdn.com/8161b190-8b66-43fc-9da2-8808afc64236/'
 collections:
   - collection: Arts & Crafts
 status: Published
