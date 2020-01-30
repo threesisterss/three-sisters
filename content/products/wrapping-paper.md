@@ -11,4 +11,4 @@ meta:
   description: Product
   title: Product
 ---
-# Handwritten Wrapping Paper
+# Available in 3 colours
