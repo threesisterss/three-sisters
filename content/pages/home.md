@@ -6,7 +6,7 @@ carousel:
   - alt: Three Sisters
     image: >-
       https://images.squarespace-cdn.com/content/v1/591cd05915d5dbf23bf660c0/1554075266121-WWPYDVQ3MMGPMOC3CGNH/ke17ZwdGBToddI8pDm48kNLmoMgP9-PoGL3pTpvfmf97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UZn9JnVc0xDeoNGVJ3wrjE4Nx_EhhKi4CB_8Hn-bafWShA1iIgJHGOspu562nPK3kQ/Intro+Flaylay+Banner.jpg?format=2500w
-  - alt: Eid
+  - alt: Eid 2020 Collection
     image: 'https://ucarecdn.com/60157dd3-7187-403c-a6c0-ebe169fd9d6b/'
 featuredTitle: 'Handcrafted Art & '
 featured:
