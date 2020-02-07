@@ -2,6 +2,7 @@ import styled from '@emotion/styled'
 
 export const Meta = styled.div`
   font-size: 1rem;
+  font-weight: 300;
   margin: 0 0 2rem 0;
   text-align: center;
 

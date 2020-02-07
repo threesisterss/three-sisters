@@ -8,6 +8,6 @@ meta:
   title: Contact Us
 ---
 
-Need information or have any questions?
+Need more information, got questions?
 Get in touch!
-Please feel free to leave a messaage, & we will get back to you shortly.
+Leave a message and we will get back to you shortly.

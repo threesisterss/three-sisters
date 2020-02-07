@@ -32,6 +32,8 @@ export const Title = styled.h4`
 `
 
 export const Collection = styled.div`
+  font-size: 0.8rem;
+  font-weight: 300;
   line-height: 1;
   margin: 0.5em 0;
   min-height: 1.2em;
