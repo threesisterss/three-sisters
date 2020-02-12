@@ -33,6 +33,6 @@ section: >-
   paragraph.
 instagramTitle: Instagram Title
 meta:
+  title: Home
   description: Home Page
-  title: Home Page
 ---
