@@ -10,7 +10,7 @@ module.exports = {
   themeColor: '#efdbca',
   favicon: 'src/assets/icons/favicon.png',
   siteLogo: 'src/assets/icons/logo.svg',
-  googleAnalyticsID: 'UA-XXXXXXXX-X',
+  googleAnalyticsID: 'UA-158164573-1',
   siteContact: {
     address: '',
     email: '',
