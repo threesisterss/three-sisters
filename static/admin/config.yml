@@ -116,7 +116,7 @@ collections:
         widget: list
         required: false
         fields:
-          - { label: Gallery Image, name: galleryImage, widget: image, default: '' }
+          - { label: Gallery Image, name: galleryImage, widget: image }
       - label: Collections
         name: collections
         widget: list

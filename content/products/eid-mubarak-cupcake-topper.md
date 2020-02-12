@@ -4,8 +4,6 @@ date: 2020-02-07T22:38:11.221Z
 title: Eid Mubarak Cupcake Topper
 price: $10.00 CAD
 featuredImage: 'https://ucarecdn.com/313ba7f2-1a8f-413b-9195-4aaebc017598/'
-galleryImages:
-  - galleryImage: ''
 collections:
   - collection: Holidays & Celebrations
 status: Draft
