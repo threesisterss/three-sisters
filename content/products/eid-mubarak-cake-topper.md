@@ -23,4 +23,4 @@ Material: Laser Cut 1/8" (3mm) Baltic Birch Plywood
 
 Size: 7in x 7in including stick
 
-Due to nature of this material , grain and colour may vary slightly.
+Due to nature of this material, grain and colour may vary slightly.
