@@ -2,10 +2,10 @@
 template: contactPage
 slug: contact
 title: Contact Us
-featuredImage: https://ucarecdn.com/817d26ed-c8b6-454d-9caf-60d0a00919a6/
+featuredImage: 'https://ucarecdn.com/9358310d-1101-47d6-a552-4c70cf396846/'
 meta:
-  title: Contact
   description: Contact Us
+  title: Contact
 ---
 
 Need more information, got questions?
