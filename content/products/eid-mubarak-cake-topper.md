@@ -19,8 +19,12 @@ meta:
 
 This topper is the perfect piece to top your Eid celebration desserts!
 
-Material: Laser Cut 1/8" (3mm) Baltic Birch Plywood
+
 
 Size: 7in x 7in including stick
+
+Material: Laser Cut 1/8" (3mm) Baltic Birch Plywood
+
+Care Instructions: Gently wipe clean with luke warm water before & after use. Do not submerge in water or place in dishwasher.
 
 Due to nature of this material, grain and colour may vary slightly.
