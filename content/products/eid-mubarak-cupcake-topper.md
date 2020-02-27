@@ -23,7 +23,7 @@ Perfect to top of any goodies for a Ramadan/ Eid celebration.
 
 Pack of 6!
 
-Size:
+Size including stick:
 
 * Eid Mubarak 4in x 3.5in
 * Masjid 4in x 2.2in
