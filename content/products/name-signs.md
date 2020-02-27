@@ -6,6 +6,8 @@ price: ' '
 featuredImage: 'https://ucarecdn.com/955fde16-f851-4a70-adf7-a6a19145f7a7/'
 galleryImages:
   - galleryImage: 'https://ucarecdn.com/368e4326-bbbe-4521-908c-ddb99c9b7322/'
+collections:
+  - collection: Arts & Crafts
 status: Published
 meta:
   description: Product
