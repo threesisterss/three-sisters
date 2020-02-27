@@ -9,8 +9,9 @@ featuredTitle: Handcrafted Art & Calligraphy
 featured:
   - image: 'https://ucarecdn.com/817d26ed-c8b6-454d-9caf-60d0a00919a6/'
     title: Eid Mubarak Grams
-  - image: 'https://ucarecdn.com/662c1da9-36ea-455d-811a-abb8fcf9cc65/'
-    title: Eid Mubarak Cupcake Topper
+  - image: >-
+      https://ucarecdn.com/fc410997-7009-4cc8-92c1-0daadd2d31c1/-/crop/1646x1830/39,474/-/preview/
+    title: Mini Dessert Topper
   - image: 'https://ucarecdn.com/5ca0d720-8ddd-4a92-bd0a-ad4d177a6d41/'
     title: Eid Money Envelopes
 section: >-
