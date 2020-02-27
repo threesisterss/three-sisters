@@ -2,20 +2,23 @@
 template: product
 date: 2020-02-07T23:09:05.446Z
 title: Custom Stickers
-price: 'Please '
-featuredImage: 'https://ucarecdn.com/28c5c1c8-5f60-4d1e-8933-d4d54b355b17/'
+price: ' '
+featuredImage: 'https://ucarecdn.com/5f8c905e-a322-4d54-ba96-16aa116f65a4/'
+galleryImages:
+  - galleryImage: 'https://ucarecdn.com/e5a8f549-e88b-494b-81cc-fa6c2c65eb33/'
+  - galleryImage: 'https://ucarecdn.com/2f6d891d-1f55-42a7-b282-4698b403cce6/'
+  - galleryImage: 'https://ucarecdn.com/61f6e55d-6f37-4edc-8780-a5abc82ca9a7/'
+  - galleryImage: >-
+      https://ucarecdn.com/1d4ddfc6-6b02-4858-a9fa-d56378160282/-/crop/1242x1271/0,474/-/preview/
 collections:
   - collection: Arts & Crafts
-status: Draft
+status: Published
 meta:
   description: Product
   title: Product
 ---
+Do you have a small business? Do you need custom stickers for a special occasion?
 
-Do you have a small business? Or do you need custom stickers for a special occasion?
+We design and create stickers for all your needs!
 
-We design and create stickers for your needs.
-
-Material:
-
-Please get in contact for pricing.
+Please get in contact for pricing
