@@ -3,8 +3,8 @@ template: homePage
 slug: ''
 title: Home Page
 carousel:
-  - alt: Eid 2020 Collection
-    image: 'https://ucarecdn.com/60157dd3-7187-403c-a6c0-ebe169fd9d6b/'
+  - alt: ' '
+    image: 'https://ucarecdn.com/de42e319-1d44-4e13-baf1-af7faeee5363/'
 featuredTitle: Handcrafted Art & Calligraphy
 featured:
   - image: 'https://ucarecdn.com/817d26ed-c8b6-454d-9caf-60d0a00919a6/'
