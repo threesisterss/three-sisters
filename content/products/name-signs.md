@@ -19,13 +19,11 @@ A perfect piece for any nursery or room!
 
 Available in various colours and sizes
 
-
-
 Size:
 
 * 10in - $25
-* 15in - $30
-* 20in - $35
+* 15in - $35
+* 20in - $45
 
 Paint additional $5
 
