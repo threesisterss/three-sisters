@@ -5,6 +5,8 @@ title: Eid Envelopes
 price: $6.00 CAD
 featuredImage: 'https://ucarecdn.com/5cbde9d1-a129-4c81-809c-d8643565a909/'
 galleryImages:
+  - galleryImage: 'https://ucarecdn.com/133aa54f-31b3-4b3e-b351-fd90ecf28149/'
+  - galleryImage: 'https://ucarecdn.com/be95d749-f125-4918-b172-2d5888df1065/'
   - galleryImage: 'https://ucarecdn.com/49dc1f19-0fc3-4e6a-865a-c689c6d04218/'
 collections:
   - collection: Holidays & Celebrations
