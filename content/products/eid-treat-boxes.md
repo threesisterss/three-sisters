@@ -23,3 +23,5 @@ meta:
 Simple and elegant! Makes a great gift and a perfect way to share Eid treats!
 
 Pack of 3 handwritten!
+
+Size: 3in x 4.5in x 4.5in (7.6cm x 11.4cm x 11.4cm)
