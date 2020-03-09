@@ -16,4 +16,4 @@ meta:
 ---
 2019 Collection!
 
-Pack of 5 assorted.
+Pack of 8 assorted.
