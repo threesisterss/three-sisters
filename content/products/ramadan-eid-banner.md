@@ -25,4 +25,6 @@ Product is sold unpainted.
 
 Material: Laser Cut 1/8" (3mm) Baltic Birch Plywood
 
+Size: 4in height 
+
 Due to the nature of this material, grain and colour may vary.
