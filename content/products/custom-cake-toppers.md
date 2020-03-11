@@ -2,7 +2,7 @@
 template: product
 date: 2020-02-27T22:53:09.840Z
 title: Custom Wood Cake Toppers
-price: ' $15.00 CAD '
+price: ' $18.00 CAD '
 featuredImage: 'https://ucarecdn.com/a941d9da-a998-4a2d-9685-8fa0543e0dc2/'
 galleryImages:
   - galleryImage: 'https://ucarecdn.com/24791bfb-bcf1-4e7f-8bdf-f34b4554b613/'
@@ -15,6 +15,8 @@ meta:
   description: Product
   title: Product
 ---
-Custom colours available! Complimentary paint!
+Do you have a vision for a special event? We make cake toppers custom to what you are looking for!
+
+Custom colours available! Paint additional $5.
 
 Material: Laser Cut 1/8" (3mm) Baltic Birch Plywood
