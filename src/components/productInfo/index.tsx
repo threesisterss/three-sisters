@@ -121,6 +121,7 @@ const ProductInfo = ({
           />
           <CustomButton
             full
+            inverted
             type="submit"
             label="Enquire"
             disabled={disabled}

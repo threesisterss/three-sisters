@@ -77,7 +77,7 @@ const ContactForm = ({ title, body }) => {
           placeholder="Type your message here..."
           required
         />
-        <CustomButton full type="submit" label="Submit" disabled={disabled} />
+        <CustomButton full inverted type="submit" label="Submit" disabled={disabled} />
       </Form>
     </Info>
   )
