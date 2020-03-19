@@ -12,6 +12,7 @@ galleryImages:
   - galleryImage: >-
       https://ucarecdn.com/360844ff-0eca-4aa1-9c23-4419689af5ab/-/crop/987x1818/0,182/-/preview/
   - galleryImage: 'https://ucarecdn.com/4b4a81ea-7b6d-4792-ba75-7515af94761d/'
+  - galleryImage: 'https://ucarecdn.com/8d5819bc-2102-4fd8-be1c-4ae6153a67d2/'
   - galleryImage: 'https://ucarecdn.com/cee41c31-f711-46f8-b7e8-2da530c04f63/'
 collections:
   - collection: Holidays & Celebrations
