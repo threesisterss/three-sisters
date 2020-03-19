@@ -22,9 +22,9 @@ meta:
   description: Product
   title: Product
 ---
-Get your banner today! This banner set is the perfect piece to decorate your home, just waiting for your paint finishes to go with your theme. A perfect project for the whole family. 
+Get your banner today! This banner set is the perfect piece to decorate your home. Paint the banner to go with your home/ theme, this makes a perfect project for the whole family!
 
-Letters can be used individually or paired with each other. Included letters spell out 'Ramadan’, 'Eid' & ‘Mubarak’.
+Letters can be used individually or paired with each other. Set spells out 'Ramadan’, 'Eid' & ‘Mubarak’.
 
 Product is sold unpainted.
 
