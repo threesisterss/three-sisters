@@ -1,7 +1,7 @@
 ---
 template: product
 date: 2020-01-30T02:02:48.308Z
-title: Hangers
+title: Personalized Hangers
 price: $10.00 CAD
 featuredImage: 'https://ucarecdn.com/04526afc-a983-4024-902d-666af2511d4e/'
 galleryImages:
@@ -15,5 +15,4 @@ meta:
   description: Hangers
   title: Hangers
 ---
-
-Custom Hangers
+These hangers make the perfect gift for the bride, groom and bridal party. Get them customized with names and dates. Available in different colours!
