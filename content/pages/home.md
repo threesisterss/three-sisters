@@ -7,12 +7,12 @@ carousel:
     image: 'https://ucarecdn.com/53fa0e84-7818-476c-88ed-32fb8345b8c8/'
 featuredTitle: Handcrafted Art & Calligraphy
 featured:
-  - image: 'https://ucarecdn.com/817d26ed-c8b6-454d-9caf-60d0a00919a6/'
+  - image: 'https://ucarecdn.com/2318071b-fb6e-4350-bb46-807760b89690/'
     title: Eid Mubarak Grams
   - image: 'https://ucarecdn.com/810cf8d8-0786-4fc4-809e-26880dec5f5c/'
     title: Mini Dessert Topper
-  - image: 'https://ucarecdn.com/5ca0d720-8ddd-4a92-bd0a-ad4d177a6d41/'
-    title: Eid Money Envelopes
+  - image: 'https://ucarecdn.com/aa2b4796-4af5-4ecd-a9ac-446f35e8ebb6/'
+    title: Eid Envelopes
 section: >-
   # Ramadan & Eid
 
