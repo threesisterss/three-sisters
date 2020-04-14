@@ -3,7 +3,7 @@ template: product
 date: 2020-02-27T22:03:01.064Z
 title: Ramadan/ Eid Banner
 price: $20.00 CAD
-featuredImage: 'https://ucarecdn.com/f3040846-b3d6-44d0-9e50-98b4574e618a/-/preview/'
+featuredImage: 'https://ucarecdn.com/b6382c20-ea01-4ff1-97bc-03b3a61a77f0/'
 galleryImages:
   - galleryImage: 'https://ucarecdn.com/f5b8f631-2fa0-4ef2-980f-49327e020cf3/'
   - galleryImage: >-
