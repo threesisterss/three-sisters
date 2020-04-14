@@ -22,6 +22,8 @@ meta:
   description: Product
   title: Product
 ---
+SOLD OUT
+
 Get your banner today! This banner set is the perfect piece to decorate your home. Paint the banner to go with your home/ theme, this makes a perfect project for the whole family!
 
 Letters can be used individually or paired with each other. Set spells out 'Ramadan’, 'Eid' & ‘Mubarak’.
