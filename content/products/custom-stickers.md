@@ -6,7 +6,7 @@ price: ' '
 featuredImage: 'https://ucarecdn.com/5f8c905e-a322-4d54-ba96-16aa116f65a4/'
 galleryImages:
   - galleryImage: >-
-      https://ucarecdn.com/de2c5626-54ce-402c-88a0-6b80f1084aad/-/crop/648x842/0,0/-/preview/
+      https://ucarecdn.com/de2c5626-54ce-402c-88a0-6b80f1084aad/-/crop/764x817/0,0/-/preview/
   - galleryImage: 'https://ucarecdn.com/e5a8f549-e88b-494b-81cc-fa6c2c65eb33/'
   - galleryImage: 'https://ucarecdn.com/2f6d891d-1f55-42a7-b282-4698b403cce6/'
   - galleryImage: 'https://ucarecdn.com/61f6e55d-6f37-4edc-8780-a5abc82ca9a7/'
