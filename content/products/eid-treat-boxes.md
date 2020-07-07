@@ -21,6 +21,8 @@ meta:
   description: Product
   title: Product
 ---
+SOLD OUT
+
 Simple and elegant! Makes a great gift and a perfect way to share Eid treats!
 
 Pack of 3 handwritten!
